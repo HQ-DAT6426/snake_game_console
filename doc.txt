@@ -1,0 +1,15 @@
+Game rắn săn mồi.
+1,  Phân tích yêu cầu:
+- yêu cầu chức năng:(hệ thống làm được gì)(chức năng)
+	rắn di chuyển: di chuyển theo điều khiển lên xuống trái phải)
+	ăn mồi: khi toạ độ đầu bằng toạ độ mồi)
+	tính điểm: mồi sinh ngẫu nhiên và cộng điểm mỗi lần ăn mồi
+	chết(va chạm): va chạm thân tường sẽ chết game reset
+- yêu cầu phi chức năng:(hệ thống chạy như thế nào)(hiệu năng trải nghiệm)
+	game mượt:tốc độ rắn 
+	không quá nhiều ram:
+	dễ mở rộng: 
+- ràng buộc:(những bắt buộc tuân theo)(công nghệ và giới hạn)
+	dùng c/c++ 
+	platform windows
+2, Thiết kế giải pháp:
