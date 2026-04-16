@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1775810403 source:d:\game_snack\main\point.cpp
+	"Point.h"
+
+1775816760 source:d:\game_snack\main\main.cpp
+	"ControlGame.h"
+
+1775716078 d:\game_snack\main\point.cpp
+	<Point.h>
+
+1775810403 d:\game_snack\main\point.h
+
+1775744358 source:d:\game_snack\main\map.h
+	<vector>
+	"Point.h"
+
+1775812665 source:d:\game_snack\main\map.cpp
+	<vector>
+	"Map.h"
+	"Point.h"
+
+1775812665 d:\game_snack\main\map.h
+	<vector>
+	"Point.h"
+
+1775810436 source:d:\game_snack\main\food.cpp
+	<cstdlib>
+	<ctime>
+	"Point.h"
+	"Food.h"
+
+1775750529 d:\game_snack\main\food.h
+	"Point.h"
+
+1775820264 source:d:\game_snack\main\snake.cpp
+	"Point.h"
+	<deque>
+	"Snake.h"
+
+1775814840 d:\game_snack\main\snake.h
+	"Point.h"
+	<deque>
+
+1775832883 source:d:\game_snack\main\controlgame.cpp
+	<iostream>
+	<windows.h>
+	"Map.h"
+	"Snake.h"
+	"Food.h"
+	"ControlGame.h"
+	<conio.h>
+	<vector>
+	<deque>
+	<exception>
+
+1775832883 d:\game_snack\main\controlgame.h
+	"Map.h"
+	"Snake.h"
+	"Food.h"
+
